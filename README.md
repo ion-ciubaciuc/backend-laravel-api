@@ -2,23 +2,22 @@
 
 ### Prerequisites
 
-Before you begin, make sure you have the following installed on your machine:
+Before you begin, make sure you have Docker installed on your machine:
 
 - Docker: [Install Docker](https://docs.docker.com/get-docker/)
-- Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
 
 ### Getting Started
 
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:ion-ciubaciuc/backend-laravel-api.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd <project_directory>
+    cd backend-laravel-api
     ```
 
 3. **Create a Copy of the Environment File:**
